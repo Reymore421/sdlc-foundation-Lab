@@ -15,3 +15,24 @@ GitHub Repository URL:
 
 PART 1: GITHUB ONBOARDING & SETUP
 VERIFICATION
+
+Part 1: GitHub Account Creation & Onboarding
+Objective: Set up a centralized remote repository environment for future CI/CD and GitFlow
+collaboration.
+
+
+1. Account Registration
+○ Go to github.com and click Sign Up.
+○ Enter your academic email address, create a strong password, and select a
+professional username (e.g., j-perminola).
+○ Complete the verification puzzle and enter the launch code sent to your email.
+2. Profile & Security Setup
+○ Set your display name to your full name and upload a profile picture.
+○ Go to Settings > Password and authentication and enable Two-Factor
+Authentication (2FA) using an authenticator app or SMS.
+
+3. Verification Task
+○ Click the + icon in the top right and select New repository.
+○ Name the repository sdlc-foundations-lab, set visibility to Public, check
+Add a README file, and click Create repository.
+○ Copy your public repository URL to submit alongside Part 2.
