@@ -29,11 +29,11 @@ Objective: Set up a centralized remote repository environment for future CI/CD a
 
 Task Checklist 
 
-● [ ] Created GitHub account using academic email. 
+● [✓] Created GitHub account using academic email. 
 
-● [ ] Enabled Two-Factor Authentication (2FA) in Settings. 
+● [✓] Enabled Two-Factor Authentication (2FA) in Settings. 
 
-● [ ] Created public repository named sdlc-foundations-lab with a README.md. ● [ ] Pasted public repository link in the header above.
+● [✓] Created public repository named sdlc-foundations-lab with a README.md. ● [ ] Pasted public repository link in the header above.
 
 PART 2: REAL-WORLD ENGINEERING SCENARIOS Scenario A: SDLC & Framework Selection 
 
@@ -94,9 +94,9 @@ Answer: Lastly for this situation is to make an underlined definition By using F
 
 FINAL SUBMISSION CHECKLIST 
 
-● [ ] Part 1 checklist completely verified. 
+● [✓] Part 1 checklist completely verified. 
 
-● [ ] All scenario questions answered clearly. 
+● [✓] All scenario questions answered clearly. 
 
-● [ ] Repository set to Public for grading access.
+● [✓] Repository set to Public for grading access.
 
