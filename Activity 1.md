@@ -36,3 +36,25 @@ Authentication (2FA) using an authenticator app or SMS.
 ○ Name the repository sdlc-foundations-lab, set visibility to Public, check
 Add a README file, and click Create repository.
 ○ Copy your public repository URL to submit alongside Part 2.
+
+
+Task Checklist
+● [ ] Created GitHub account using academic email.
+● [ ] Enabled Two-Factor Authentication (2FA) in Settings.
+● [ ] Created public repository named sdlc-foundations-lab with a README.md.
+● [ ] Pasted public repository link in the header above.
+
+
+PART 2: REAL-WORLD ENGINEERING SCENARIOS
+Scenario A: SDLC & Framework Selection
+
+
+Context: A fintech company wants to release a new peer-to-peer payment feature. A
+government regulatory agency requires complete compliance auditing before release, but
+competitors are rapidly capturing market share.
+Task:
+1. Compare Waterfall vs. Agile (Scrum) for this launch using the criteria below:
+○ Adaptability & Time-to-Market
+○ Regulatory & Compliance Risk Handling
+2. Choose a hybrid or primary framework (e.g., Scrum vs. Waterfall vs. Spiral). Explain your
+reasoning in 2–3 sentences.
