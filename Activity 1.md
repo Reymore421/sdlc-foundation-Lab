@@ -147,5 +147,7 @@ safely before reaching main. This prevents overwriting and keeps production stab
 FINAL SUBMISSION CHECKLIST
 
 ● [ ] Part 1 checklist completely verified.
+
 ● [ ] All scenario questions answered clearly.
+
 ● [ ] Repository set to Public for grading access.
