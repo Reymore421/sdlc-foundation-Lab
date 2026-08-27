@@ -28,8 +28,11 @@ Objective: Set up a centralized remote repository environment for future CI/CD a
 ○ Copy your public repository URL to submit alongside Part 2. 
 
 Task Checklist 
+
 ● [ ] Created GitHub account using academic email. 
+
 ● [ ] Enabled Two-Factor Authentication (2FA) in Settings. 
+
 ● [ ] Created public repository named sdlc-foundations-lab with a README.md. ● [ ] Pasted public repository link in the header above.
 
 PART 2: REAL-WORLD ENGINEERING SCENARIOS Scenario A: SDLC & Framework Selection 
@@ -74,6 +77,7 @@ Scenario C: Git Lifecycle & Branching Strategy
 Write the standard Git command used to transfer code between each 
 
 environment:
+
 ● Working Directory -> Staging Area: git add 
 
 ● Staging Area -> Local Repository: git commit 
@@ -89,7 +93,10 @@ overwriting each other's code on Main. ( 2 to 3 sentences)
 Answer: Lastly for this situation is to make an underlined definition By using Feature Branches, each developer works independently without touching main. The Develop branch acts as the integration point, ensuring code is tested and merged safely before reaching main. This prevents overwriting and keeps production stable. 
 
 FINAL SUBMISSION CHECKLIST 
+
 ● [ ] Part 1 checklist completely verified. 
+
 ● [ ] All scenario questions answered clearly. 
+
 ● [ ] Repository set to Public for grading access.
 
