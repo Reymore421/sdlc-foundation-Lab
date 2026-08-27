@@ -11,3 +11,7 @@ GitHub Repository URL:
 
 [https://github.com/Reymore421/sdlc-foundation-Lab/blob/c114985f1e93ef87c26a0dbc5012a26
 2118cf21d/Activity%201)
+
+
+PART 1: GITHUB ONBOARDING & SETUP
+VERIFICATION
