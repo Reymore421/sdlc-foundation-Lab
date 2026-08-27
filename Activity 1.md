@@ -26,12 +26,13 @@ collaboration.
 ○ Enter your academic email address, create a strong password, and select a
 professional username (e.g., j-perminola).
 ○ Complete the verification puzzle and enter the launch code sent to your email.
-2. Profile & Security Setup
+
+3. Profile & Security Setup
 ○ Set your display name to your full name and upload a profile picture.
 ○ Go to Settings > Password and authentication and enable Two-Factor
 Authentication (2FA) using an authenticator app or SMS.
 
-3. Verification Task
+4. Verification Task
 ○ Click the + icon in the top right and select New repository.
 ○ Name the repository sdlc-foundations-lab, set visibility to Public, check
 Add a README file, and click Create repository.
@@ -102,6 +103,7 @@ Scenario B: DevOps & CI/CD Pipeline Breakdown
 Context: A team merges code, but the production app breaks during deployment because
 testing was done manually on individual laptops rather than in an automated pipeline.
 Task:
+
 1. Identify where the communication and process gap occurred between Dev and Ops.
 2. Map out the automated CI/CD pipeline stages (Plan -> Code -> Build -> Test ->
 Release -> Deploy ->Operate -> Monitor) and state which stage would catch this bug
@@ -114,20 +116,23 @@ Answer: In my Opinion it is to make an occurrence because Dev tested locally
 without standardized automation, and Ops deployed without proper integration
 checks. Communication failed between development and operations on testing
 requirements.
-2. Pipeline Stage Identification:
+
+3. Pipeline Stage Identification:
 Fill in the missing stages of the continuous assembly line and circle/bold the stage that catches
 local testing bugs before production release:
 
 
 Plan -> Code -> Build -> Test -> Release -> Deploy -> Operate -> Monitor
 Scenario C: Git Lifecycle & Branching Strategy
+
 1. Data Movement Command Mapping
 Write the standard Git command used to transfer code between each environment:
 ● Working Directory -> Staging Area: git add
 ● Staging Area -> Local Repository: git commit
 ● Local Repository -> Remote Repository (GitHub): git push
 ● Remote Repository -> Working Directory: git pull
-2. GitFlow Collision Prevention:
+
+3. GitFlow Collision Prevention:
 Explain how utilizing Feature Branches and a Develop branch prevents two developers from
 
 
@@ -138,7 +143,9 @@ Feature Branches, each developer works independently without touching main. The
 Develop branch acts as the integration point, ensuring code is tested and merged
 safely before reaching main. This prevents overwriting and keeps production stable.
 
+
 FINAL SUBMISSION CHECKLIST
+
 ● [ ] Part 1 checklist completely verified.
 ● [ ] All scenario questions answered clearly.
 ● [ ] Repository set to Public for grading access.
